@@ -62,7 +62,7 @@ This project was built using Python. Required libraries can be found in the **re
 
 ## Installation
 
-1. Open this [Google Colab Link](https://colab.research.google.com/drive/1-ebU3UMTEEK21HfflGEwQWnQgmAu8vix?usp=sharing) or download the **Gemini.ipynb** file from this repository and open it using a Jupyter Notebook (You can also simply open the Gemini.ipynb file in Github itself and click on the 'Open in Colab' badge at the top).
+1. Open this [Google Colab Link](https://colab.research.google.com/drive/1-ebU3UMTEEK21HfflGEwQWnQgmAu8vix?usp=sharing) or download the **Gemini.ipynb** file from this repository and open it using a Jupyter Notebook (You can also simply open the Gemini.ipynb file in Github itself and click on the 'Open in Colab' badge at the top). Data is fetched from _newscatcher API_ and I have hardcoded my API key. You can use the same while executing or get your own at https://app.newscatcherapi.com/auth/register .
 
 2. Simply, execute all the cells in the Colaboratory notebook in order. Each cell is documented as to what purpose it serves and the time of execution if it takes a while to execute. There are only 3 cells in the entire notebook whose values are to be changed. Those are:
 
