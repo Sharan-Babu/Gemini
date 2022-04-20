@@ -13,7 +13,7 @@ Time is of essence and hence spending it by only consuming necessary information
 
 **Current Solution Export**: [Link](https://github.com/Sharan-Babu/Gemini/blob/main/export_576836961.tar.gz)
 
-**Fun Fact**: '_Gemini_' is synonymous to the word '_clone_' or '_twin_' and hence I thought it would be a cool play on the word for a project that dealt with deduplication.
+**Fun Fact**: '_Gemini_' is synonymous with the word '_clone_' or '_twin_' and hence, I thought it would be a cool play on the word for a project that dealt with deduplication.
 				
 
 ## Impactfulness
