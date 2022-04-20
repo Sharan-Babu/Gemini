@@ -40,7 +40,7 @@ The way the graph has been modelled allows for it to be extended for non-news us
 
 
 ## Applicability
-**Gemini 👥** helps address a lot of use cases and it's easy schema extensibility makes it convenient and simple to _add new dynamics_ to the existing graph.
+**Gemini 👥** helps address a lot of use cases and its easy schema extensibility makes it convenient and simple to _add new dynamics_ to the existing graph.
 Examples of use cases:
 - Normal user browsing a news topic
 - Organization checking public reception of it's fresh developments on news
