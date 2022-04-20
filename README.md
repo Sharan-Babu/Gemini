@@ -103,7 +103,7 @@ pip install streamlit
 streamlit run gemini.py
 ~~~
 
-9. You can now view the website. You can also visit your instances' Graph Studio to view all the populated data and explore the graph.
+9. You can now view the website. You can also visit your instances' GraphStudio to view all the populated data and explore the graph.
   
   ![website pic2](https://user-images.githubusercontent.com/50396375/164228873-1120e8d1-b5ed-4447-9a89-eda007824d0d.PNG)
   
