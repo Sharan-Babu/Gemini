@@ -7,7 +7,7 @@ Helpful Code Snippets for learning TigerGraph: https://github.com/Sharan-Babu/Ge
 
 Project Images: https://github.com/Sharan-Babu/Gemini/tree/main/images
 
-Useful Reference Links:
+**Useful Reference Links**:
 1) https://docs.tigergraph.com/cloud/start/overview
 2) https://www.tigergraph.com/graphstudio/
 3) https://docs.tigergraph.com/graph-ml/current/intro/
