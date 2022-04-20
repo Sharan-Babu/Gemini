@@ -9,7 +9,7 @@ An eclectic news search engine that helps with deduplication of news articles an
 
 Time is of essence and hence spending it by only consuming necessary information is very important. That is the problem this project tries to solve in the domain of news search. **Gemini** is an eclectic news search engine that helps with deduplication of news articles and enriches your reading experience. Enables readers to dig deep into a certain opinion or explore multiple facets of the news at hand.
 
-**Submission Video** : [Link](https://www.youtube.com/watch?v=w9tYn8WQJzk)  
+**Submission Video** : [Link](https://youtu.be/D_MBfYHpUqc)  
 
 **Current Solution Export**: [Link](https://github.com/Sharan-Babu/Gemini/blob/main/export_576836961.tar.gz)
 
