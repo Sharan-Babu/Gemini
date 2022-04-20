@@ -126,7 +126,8 @@ Explored and used Graph technology for the first time and it was a very fulfilli
 Participating in the hackathon was a pleasant experience. Ample resources, time and support were provided.
 
 _How it was built_?
-- Fetched news articles from newsapicatcher.com. Used the PyTigerGraph Python library to interact with the TigerGraph instance. 
+- Fetched news articles from newsapicatcher.com. 
+- Used the PyTigerGraph Python library to interact with the TigerGraph instance. 
 - Used 3 different NLP models for Semantic Search, Keyword Generation and Sentiment Analysis respectively. Helps with enriching the news articles with additional metadata. 
 - Later, loaded all data to the TigerGraph instance and processed/explored data in several ways using custom GSQL queries as well as special algorithms like centrality and similarity. 
 - Finally, results are shown to the end-user in a Streamlit web application.
