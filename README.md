@@ -144,5 +144,6 @@ _How it was built_?
 6) https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints#_upsert_data_to_graph
 7) https://newscatcherapi.com/
 8) https://github.com/MaartenGr/KeyBERT
+9) https://graphforall.devpost.com/details/inspiration#h_1353131838381643228912926
 
 Special thanks to **Ashleigh Faith** for the great problem statement, detailed description and attached resources.
