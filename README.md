@@ -38,15 +38,21 @@ The way the graph has been modelled allows for it to be extended for non-news us
 
 
 ## Applicability
-**Gemini 👥** helps address a lot of use cases and it's easy schema extensibility makes it convenient and simple to add new dynamics to the existing graph. 
+**Gemini 👥** helps address a lot of use cases and it's easy schema extensibility makes it convenient and simple to _add new dynamics_ to the existing graph.
+Examples of use cases:
+- Normal user browsing a news topic
+- Organization checking public reception of it's fresh developments on news
+- Organization checking how it's competitors are performing in the eyes of the public sphere
+- Empathetic understanding of the problem
+- Exploratory analysis (eclectic surfing) & subject-matter deep dive (related news drill-down)
 
 
 Other additions: 
 
  - **Data**: Initial data fetched from https://newscatcherapi.com/ and later enriched (metadata creation) using different NLP models.
  - **Technology Stack**: Python, TigerGraph, Dataframe Processing, Semantic Search, Sentiment Analysis, Keyword Generation, Website (Streamlit)
- - **Visuals**: Feel free to include other images or videos to better demonstrate your work.
- - **Project Link**: https://colab.research.google.com/drive/1-ebU3UMTEEK21HfflGEwQWnQgmAu8vix?usp=sharing
+ - **Visuals/Project Images**: [Link](https://github.com/Sharan-Babu/Gemini/tree/main/images)
+ - **Project Link**: [Link](https://colab.research.google.com/drive/1-ebU3UMTEEK21HfflGEwQWnQgmAu8vix?usp=sharing)
 
 ## Dependencies
 
@@ -81,8 +87,6 @@ _How it was built_?
 **Link to my TigerGraph notes**: https://github.com/Sharan-Babu/Gemini/blob/main/TigerGraph%20Notes.pdf
 
 **Helpful Code Snippets for learning TigerGraph**: https://github.com/Sharan-Babu/Gemini/tree/main/code_snippets
-
-**Project Images**: https://github.com/Sharan-Babu/Gemini/tree/main/images
 
 **Useful Reference Links**:
 1) https://docs.tigergraph.com/cloud/start/overview
