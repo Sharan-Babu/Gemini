@@ -123,6 +123,8 @@ The solution and the way it has been built can be extended into a regular search
 
 Explored and used Graph technology for the first time and it was a very fulfilling experience. Learned about how existing news search engines work, their strengths and weaknesses and how cutting edge advances in NLP (keyword generation, semantic search) can be used to make news search better for the readers.
 
+Participating in the hackathon was a pleasant experience. Ample resources, time and support were provided.
+
 _How it was built_?
 - Fetched news articles from newsapicatcher.com. Used the PyTigerGraph Python library to interact with the TigerGraph instance. 
 - Used 3 different NLP models for Semantic Search, Keyword Generation and Sentiment Analysis respectively. Helps with enriching the news articles with additional metadata. 
