@@ -11,14 +11,20 @@ Time is of essence and hence spending it by only consuming necessary information
 
 Remember to link your submission video here. 
 
-**Fun Fact**: Gemini is synonymous to the word 'clone' or 'twin' and hence I thought it would be a cool play on the word for a project that dealt with deduplication.
+**Fun Fact**: '_Gemini_' is synonymous to the word '_clone_' or '_twin_' and hence I thought it would be a cool play on the word for a project that dealt with deduplication.
+				
 
-Tell us how your entry was the most...					
+## Impactfulness
+Productivity and value for time is ever-so important in today's fast moving world. We are constantly in search for tools that bolster this notion without sometimes realizing that we might be sacrificing important as a process. Take 'News Search' as a problem for example. As an end consumer, we want quick access to happenings around the world and this requirement is readily fulfilled by the mobiles in our pocket, but in the quest for this speed, are we getting an entire picture of the event (news) at hand? **Probably not**. That is where **Gemini** comes in. Gemini with the power of Graph Technology is able to provide meaningful and often looked-over insights that can totally change your viewpoint on a matter. With Gemini, you can not only save a lot of time by ensuring that you are not reading the same content over and over again but also answer interesting questions like:
+- Which countries have what opinion about an event?
+- Inherent bias in the subject matter being discussed
+- How two entities (like countries) are related to an event?
+- Connection of keywords and topics to news from different sources
 
-- Impactful in solving a real world problem 
-- Innovative use case of graph
-- Ambitious and complex graph
-- Applicable graph solution 
+Innovative use case of graph
+Ambitious and complex graph
+Applicable graph solution 
+
 
 Other additions: 
 
@@ -72,3 +78,5 @@ _How it was built_?
 6) https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints#_upsert_data_to_graph
 7) https://demo.newscatcherapi.com/
 8) https://github.com/MaartenGr/KeyBERT
+
+Special thanks to **Ashleigh Faith** for the great problem statement, detailed description and attached resources.
