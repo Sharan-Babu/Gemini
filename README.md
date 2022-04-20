@@ -84,7 +84,7 @@ This project was built using Python. Required libraries can be found in the **re
   
   ![s4](https://user-images.githubusercontent.com/50396375/164228093-0e54e762-959e-458c-8633-1cb557dc0084.PNG)  
 
-5. Clone the repository.
+5. Clone this repository.
 ~~~
 git clone https://github.com/Sharan-Babu/Gemini.git
 ~~~
