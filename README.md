@@ -60,13 +60,25 @@ This project was built using Python. Required libraries can be found in the **re
 
 ## Installation
 
-Please give detailed instructions on installing, configuring, and running the project so judges can fully replicate and assess it. 
+1. Open this [Google Colab Link](https://colab.research.google.com/drive/1-ebU3UMTEEK21HfflGEwQWnQgmAu8vix?usp=sharing) or download the **Gemini.ipynb** file from this repository and open it using a Jupyter Notebook (You can also simply open the Gemini.ipynb file in Github itself and click on the 'Open in Colab' badge at the top).
 
-This can include:
-1. Clone repository
-2. Install dependencies
-3. Access data
-4. Steps to build/run project
+2. Simply, execute all the cells in the Colaboratory notebook in order. Each cell is documented as to what purpose it serves and the time of execution if it takes a while to execute. There are only 3 cells in the entire notebook whose values are to be changed. Those are:
+
+2a. Enter your preferred news search term in this cell before executing.
+
+  ![s1](https://user-images.githubusercontent.com/50396375/164226269-dcf88bbe-5247-4728-919b-560a9abc7068.PNG)
+
+2b. In this cell, we establish a connection to our TigerGraph instance. So, create an instance with Blank Started Kit and replace the connection paramters & credentials in this cell with yours.
+
+  ![s2](https://user-images.githubusercontent.com/50396375/164226469-9e093343-f0f4-4b7d-8032-4db42bf0911b.PNG)
+
+2c. This cell requires no change if the above 2 cells were changed accordingly.
+
+  ![s3](https://user-images.githubusercontent.com/50396375/164226882-6016a194-d920-4155-a5eb-7c15700173a1.PNG)
+
+3. All the other cells can be executed as it is. The Colab notebook has been structured in such a way that the flow through it is smooth for the person running it and each component of this project has been separately executed with an example for better understanding of how the project was built.
+
+
 
 ## Future Improvements
 
