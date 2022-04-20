@@ -1,4 +1,4 @@
-# Gemini
+# Gemini 👥
 An eclectic news search engine that helps with deduplication of news articles and enriches your reading experience.
 
 **Contributers and Contact Information: [Sharan Babu, sharanbabu2001@gmail.com / 19211a05q9@bvrit.ac.in, www.sharanbabu.ml ]**
@@ -25,18 +25,28 @@ Productivity and value for time is ever-so important in today's fast moving worl
 and many such insightful questions. The revelations are often eye-opening and help lead to healthy conclusions.
 
 ## Innovative use case of graph
+Use of a hyper-node based schema where the hyper-nodes lead to related children nodes and the hyper-nodes (called 'ANCHOR NEWS' in the context of this project) themselves are linked to each other with a semantic similarity provides an innovative and unique way to model the problem of news deduplication in such a way that deduplication is inherent and the defined schema allows for a wide range of custom queries for varied and meaningful insights in an optimal way. Schema is easily extendable to add new properties/attributes for news articles.
+
+The way the graph has been modelled allows for it to be extended for non-news use cases as well. It is magic when you are able to explore the populated graph in a Graph Studio or visualization tool of your choice. The connections induce new ideas as to how the graph can be queried in creative ways to mine new patterns.
+
+## Ambitiousness
+**Gemini** is trying to solve a _pressing_ and _ever-existent_ problem. This project has the potential to help people form _concerted and unbiased_ opinions thereby leading to a safe and just society. **Gemini** is highly scalable and generalizable as well.
+
+**Schema**:
+
+![schema](https://user-images.githubusercontent.com/50396375/164199743-fdc2f3d4-8ea0-40d1-aa07-0f0806bb9811.PNG)
 
 
-Ambitious and complex graph
-Applicable graph solution 
+## Applicability
+**Gemini 👥** helps address a lot of use cases and it's easy schema extensibility makes it convenient and simple to add new dynamics to the existing graph. 
 
 
 Other additions: 
 
- - **Data**: Give context for the dataset used and give full access to judges if publicly available or metadata otherwise. 
- - **Technology Stack**: Describe technologies and programming languages used. 
+ - **Data**: Initial data fetched from https://newscatcherapi.com/ and later enriched (metadata creation) using different NLP models.
+ - **Technology Stack**: Python, TigerGraph, Dataframe Processing, Semantic Search, Sentiment Analysis, Keyword Generation, Website (Streamlit)
  - **Visuals**: Feel free to include other images or videos to better demonstrate your work.
- - Link websites or applications if needed to demonstrate your work. 
+ - **Project Link**: https://colab.research.google.com/drive/1-ebU3UMTEEK21HfflGEwQWnQgmAu8vix?usp=sharing
 
 ## Dependencies
 
@@ -81,7 +91,7 @@ _How it was built_?
 4) https://colab.research.google.com/drive/1JhYcnGVWT51KswcXZzyPzKqCoPP5htcC
 5) https://pytigergraph.github.io/pyTigerGraph/
 6) https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints#_upsert_data_to_graph
-7) https://demo.newscatcherapi.com/
+7) https://newscatcherapi.com/
 8) https://github.com/MaartenGr/KeyBERT
 
 Special thanks to **Ashleigh Faith** for the great problem statement, detailed description and attached resources.
