@@ -9,7 +9,7 @@ An eclectic news search engine that helps with deduplication of news articles an
 
 Time is of essence and hence spending it by only consuming necessary information is very important. That is the problem this project tries to solve in the domain of news search. **Gemini** is an eclectic news search engine that helps with deduplication of news articles and enriches your reading experience. Enables readers to dig deep into a certain opinion or explore multiple facets of the news at hand.
 
-Remember to link your submission video here. 
+Submission Video : [Link](https://www.youtube.com/watch?v=w9tYn8WQJzk)  
 
 **Fun Fact**: '_Gemini_' is synonymous to the word '_clone_' or '_twin_' and hence I thought it would be a cool play on the word for a project that dealt with deduplication.
 				
@@ -20,8 +20,13 @@ Productivity and value for time is ever-so important in today's fast moving worl
 - Inherent bias in the subject matter being discussed
 - How two entities (like countries) are related to an event?
 - Connection of keywords and topics to news from different sources
+- Centrality of a particular opinion?
 
-Innovative use case of graph
+and many such insightful questions. The revelations are often eye-opening and help lead to healthy conclusions.
+
+## Innovative use case of graph
+
+
 Ambitious and complex graph
 Applicable graph solution 
 
