@@ -70,6 +70,8 @@ This project was built using Python. Required libraries can be found in the **re
 
 2b. In this cell, we establish a connection to our TigerGraph instance. So, create an instance with Blank Started Kit and replace the connection paramters & credentials in this cell with yours.
 
+  ![TigerGraph Dashboard](https://user-images.githubusercontent.com/50396375/164228960-6fa6dc5f-1cc9-4016-88da-cb01420a12e6.PNG)
+
   ![s2](https://user-images.githubusercontent.com/50396375/164226469-9e093343-f0f4-4b7d-8032-4db42bf0911b.PNG)
 
 2c. This cell requires no change if the above 2 cells were changed accordingly.
@@ -77,6 +79,37 @@ This project was built using Python. Required libraries can be found in the **re
   ![s3](https://user-images.githubusercontent.com/50396375/164226882-6016a194-d920-4155-a5eb-7c15700173a1.PNG)
 
 3. All the other cells can be executed as it is. The Colab notebook has been structured in such a way that the flow through it is smooth for the person running it and each component of this project has been separately executed with an example for better understanding of how the project was built.
+
+4. If you used the Colab notebook for execution, Download the files called **anchor_vertices_list** and **children_news_info** from the left pane.
+  
+  ![s4](https://user-images.githubusercontent.com/50396375/164228093-0e54e762-959e-458c-8633-1cb557dc0084.PNG)  
+
+5. Clone the repository.
+~~~
+git clone https://github.com/Sharan-Babu/Gemini.git
+~~~
+
+6. Ensure that you have the files **anchor_vertices**, **children_news_info** and **gemini.py** in the same folder. If you had changed the search term, replace the **anchor_vertices** and **children_news_info** files in the cloned repository with the ones you downloaded in step 4. Now, we are ready to spin up the website.
+
+7. Install streamlit
+~~~
+pip install streamlit
+~~~
+
+8. Run the Web Application
+~~~
+streamlit run gemini.py
+~~~
+
+9. You can now view the website. You can also visit your instances' Graph Studio to view all the populated data and explore the graph.
+  
+  ![website pic2](https://user-images.githubusercontent.com/50396375/164228873-1120e8d1-b5ed-4447-9a89-eda007824d0d.PNG)
+  
+  ![all_paths_finding](https://user-images.githubusercontent.com/50396375/164229046-4b3b6215-1e65-46e9-86a2-1bc09ef13a50.PNG)
+  
+  ![anchor_news_info](https://user-images.githubusercontent.com/50396375/164229063-2267181c-a1f5-48b4-b9e3-559b956a8a3a.PNG)
+
+
 
 
 
