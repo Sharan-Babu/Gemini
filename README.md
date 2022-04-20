@@ -27,7 +27,7 @@ Productivity and value for time is ever-so important in today's fast moving worl
 and many such insightful questions. The revelations are often eye-opening and help lead to healthy conclusions.
 
 ## Innovative use case of graph
-Use of a hyper-node based schema where the hyper-nodes lead to related children nodes and the hyper-nodes (called 'ANCHOR NEWS' in the context of this project) themselves are linked to each other with a semantic similarity score provides an innovative and unique way to model the problem of news deduplication in such a way that deduplication is inherent and the defined schema allows for a wide range of custom queries for varied and meaningful insights in an optimal way. Schema is easily extendable to add new properties/attributes for news articles.
+Use of a hyper-node based schema where the hyper-nodes lead to related children nodes and the hyper-nodes (called 'ANCHOR NEWS' in the context of this project) themselves are linked to each other with a semantic similarity score provides an innovative and unique way to model the problem of news deduplication in such a way that deduplication is inherent and the defined schema allows for a wide range of custom queries to be implemented for obtaining varied and meaningful insights in an optimal way. Schema is easily extendable to add new properties/attributes for news articles.
 
 The way the graph has been modelled allows for it to be extended for non-news use cases as well. It is magic when you are able to explore the populated graph in a Graph Studio or visualization tool of your choice. The connections induce new ideas as to how the graph can be queried in creative ways to mine new patterns.
 
