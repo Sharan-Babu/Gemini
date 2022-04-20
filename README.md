@@ -76,7 +76,7 @@ This project was built using Python. Required libraries can be found in the **re
 
   ![s2](https://user-images.githubusercontent.com/50396375/164226469-9e093343-f0f4-4b7d-8032-4db42bf0911b.PNG)
 
-2c. This cell requires no change if the above 2 cells were changed accordingly.
+2c. The following cell requires no change if the above 2 cells were changed accordingly.
 
   ![s3](https://user-images.githubusercontent.com/50396375/164226882-6016a194-d920-4155-a5eb-7c15700173a1.PNG)
 
